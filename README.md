@@ -103,11 +103,13 @@ Including but not limited to: [CogVideo-Fun](https://github.com/aigc-apps/CogVid
 ## 📜 Citation
 If you find this work helpful, please consider citing:
 ```BibTeXw
-@inproceedings{mark2025trajectorycrafter,
-  title={Trajectorycrafter: Redirecting camera trajectory for monocular videos via diffusion models},
-  author={YU, Mark  and Hu, Wenbo and Xing, Jinbo and Shan, Ying},
-  booktitle=ICCV,
-  year={2025}
+@InProceedings{Yu_2025_ICCV,
+    author    = {Yu, Mark and Hu, Wenbo and Xing, Jinbo and Shan, Ying},
+    title     = {TrajectoryCrafter: Redirecting Camera Trajectory for Monocular Videos via Diffusion Models},
+    booktitle = {Proceedings of the IEEE/CVF International Conference on Computer Vision (ICCV)},
+    month     = {October},
+    year      = {2025},
+    pages     = {100-111}
 }
 ```
 
